@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0693766914eac0c4a82d4a29e9010e23
+timeCreated: 1539722062
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: m5x7
+  fontNames:
+  - m5x7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

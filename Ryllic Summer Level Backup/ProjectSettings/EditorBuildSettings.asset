@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RyllicLD2ButtonsScreen.unity
+    guid: 3eace6091259dbc4cb53ac588e05e3b0
+  - enabled: 1
+    path: Assets/RyllicLD2Level_01.unity
+    guid: ede357c11b2356242a7026aa4427aef9
+  - enabled: 1
+    path: Assets/RyllicLD2Level_02.unity
+    guid: 9a1968b0aca0260409ea52c32df483ec
+  - enabled: 1
+    path: Assets/RyllicLD2Level_03.unity
+    guid: 6244230160f92f54baf048b84b7434f4
+  - enabled: 1
+    path: Assets/RyllicLD2Level_S.unity
+    guid: b8be2210a09999c4cb74b17bdb0d8f28
+  - enabled: 1
+    path: Assets/RyllicLD2Level_04.unity
+    guid: 5b71eca499cea7946afe8ec5232399ac
+  - enabled: 1
+    path: Assets/RyllicLD2Level_05_2.unity
+    guid: ba8eab8a8de87c74a8877d5140bdb925
+  - enabled: 0
+    path: Assets/RyllicLD2Level_05.unity
+    guid: 6a2892f426847b8418f5c41971210520
+  - enabled: 1
+    path: Assets/RyllicLD2GameOver.unity
+    guid: 67c7031a5d640c94081646ca31a9cb38
+  - enabled: 1
+    path: Assets/RyllicLD2Victory.unity
+    guid: f72d1e1e85adbf94eadc8b4291e56154
